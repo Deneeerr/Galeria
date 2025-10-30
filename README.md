@@ -14,12 +14,6 @@
   ![Descrição da Imagem](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Imagem+Principal+do+Projeto)
   *Legenda: Captura de tela da tela principal da aplicação*
 
-  ### Demonstração
-  | Funcionalidade 1 | Funcionalidade 2 |
-  |------------------|------------------|
-  | ![Func 1](https://via.placeholder.com/300x200/50B7C1/FFFFFF?text=Funcionalidade+1) | ![Func 2](https://via.placeholder.com/300x200/7B68EE/FFFFFF?text=Funcionalidade+2) |
-  | Descrição breve | Descrição breve |
-
   ### Galeria de Imagens
   <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img width="380" height="768" alt="image" src="https://github.com/user-attachments/assets/438356a8-584f-45b8-8a03-f878fec85f4a" />
